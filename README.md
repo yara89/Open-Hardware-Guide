@@ -37,10 +37,8 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 * ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
 * ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits (yellow): #F0C539
 
-### graphics + font colors (black and white)
+### graphics sketches + body text  colors (black and white)
 
-* ![#231F20](color-codes/231F20.png) Fonts:
-* ![#231F20](color-codes/231F20.png) graphics: outline sketches are white and the steps in each corner.
 
 # **Fonts used:**
 
@@ -69,7 +67,7 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 # **Source File:**
 
 Adobe Illustrator file:
-* [Download Source File](https://cloud.openculture.agency/index.php/s/Dp577rPHnMobQ9m)
+* [Download Source File](https://cloud.openculture.agency/index.php/s/Dp577rPHnMobQ9m)  
 PDF Print-Ready file:
 * [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
 
