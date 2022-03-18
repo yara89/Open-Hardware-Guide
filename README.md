@@ -31,8 +31,8 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 ###  back page
     Same as back with addition of a yellow square:
 
-* ![#F0EEE5](color-codes/519DD0.png) Top left corner example #1 phone stand (blue): #519DD0
-* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF
+* ![#F0EEE5](color-codes/519DD0.png) Top left corner, example #1 phone stand (blue): #519DD0
+* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner, example #2 LED light (pink): #F38BAF
 * ![#EADEC5](color-codes/7CCFDD.png) Bottom right corner, example #3 Solar Charger (Turqouise): #7CCFDD
 * ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
 * ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits (yellow): #F0C539
@@ -50,7 +50,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Text:**
 
-You can acess the raw text files from the text folder [here](#)
+You can acess the raw text files from the text folder [here](https://github.com/opencultureagency/Open-Hardware-Guide/tree/master/text)
 
 * [Front Text](text/OHG-front-FINAL-TEXT.odt)
 * [Back Text](text/OHG-back-FINAL-TEXT.odt)
