@@ -67,10 +67,10 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 # **Source File:**
 
 Adobe Illustrator file:
-* [Download Source File](https://cloud.openculture.agency/index.php/s/Dp577rPHnMobQ9m)  
+* [Download Source File (458.1 MB)](https://cloud.openculture.agency/index.php/s/Dp577rPHnMobQ9m)  
 
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
+* [Download Print-Ready PDF File (21.2 MB)](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
 
 
 # **Editorial Team:**
